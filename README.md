@@ -5,7 +5,7 @@ WebGL 기반 그래픽 프로젝트
 ---
 
 ## Texture
-<img width="32" height="32" alt="Shark" src="https://github.com/user-attachments/assets/fd53157f-c464-44cc-8827-ff3bfd4ca44a" />
+<img width="52" height="52" alt="Shark" src="https://github.com/user-attachments/assets/fd53157f-c464-44cc-8827-ff3bfd4ca44a" />
 
 
 
