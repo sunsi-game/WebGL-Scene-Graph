@@ -11,6 +11,6 @@ WebGL 기반 그래픽 프로젝트
 
 ---
 
-## Demo Video
+## Video
 https://github.com/user-attachments/assets/4bb2694e-f16e-4fc4-8420-8b668ccffe9a
 
